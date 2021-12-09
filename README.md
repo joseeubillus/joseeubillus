@@ -5,10 +5,9 @@
 ### 🌱 I’m currently learning SQL and Tensorflow
 ### 💞️ I’m looking to collaborate on projects in the oil and gas industry
 ### 📫 How to reach me: 
-- instagram:joseeduardoubillus
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joseeduardoubillus/)
-- linkedin: joseeduardoubillus
-- facebook: Jose Eduardo Ubillus
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.instagram.com/joseeduardoubillus/)
+[![Stack Overflow](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Stack%20Overflow)](https://stackoverflow.com/users/17503451/jose-eduardo-ubillus)
 
 # Some Github Stats...
 ![Github Stats Gutemberg](https://github-readme-stats.vercel.app/api?username=pizzio98&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
