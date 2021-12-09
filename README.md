@@ -9,7 +9,9 @@
 - linkedin: joseeduardoubillus
 - facebook: Jose Eduardo Ubillus
 
+# Some Github Stats...
 ![Github Stats Gutemberg](https://github-readme-stats.vercel.app/api?username=pizzio98&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+# Most used Languages..
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pizzio98&layout=compact&theme=tokyonight&langs_count=10)
 <!---
 pizzio98/pizzio98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
