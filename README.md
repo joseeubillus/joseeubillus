@@ -6,7 +6,9 @@
 ### 💞️ I’m looking to collaborate on projects in the oil and gas industry
 ### 📫 How to reach me: 
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joseeduardoubillus/)
+
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.instagram.com/joseeduardoubillus/)
+
 [![Stack Overflow](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Stack%20Overflow)](https://stackoverflow.com/users/17503451/jose-eduardo-ubillus)
 
 # Some Github Stats...
