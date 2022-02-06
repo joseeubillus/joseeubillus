@@ -9,6 +9,7 @@
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joseeduardoubillus/)
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.instagram.com/joseeduardoubillus/)
 
+### If you need more information about me, you can find my resume in my [Notion Resume](https://branched-behavior-4ca.notion.site/Resume-4d1abdad6dae4b9382528bd2ca136458)
 # Some Github Stats...
 ![Github Stats Gutemberg](https://github-readme-stats.vercel.app/api?username=pizzio98&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 # Most used Languages..
